@@ -2,7 +2,7 @@
 Repo that contains all publications of the Plan-Bee project
 
 # Research Paper
-The research paper we wrote about this project is available in this repo in the file `Studienarbeit.pdf`.
+The research paper we wrote about this project is available in this repo in the file `Studienarbeit_Plan_Bee.pdf`.
 
 ## Used Video Material
 All video material that we used for testing is from the following youtube video: https://www.youtube.com/watch?v=ue1EHAndk4w.
